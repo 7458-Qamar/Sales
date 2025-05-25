@@ -61,7 +61,8 @@ An interactive Power BI dashboard to visualize and analyze sales, profit margins
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](images/Powerbi.PNG)
+![Powerbi](https://github.com/user-attachments/assets/4ca122de-7851-4ad4-8706-cb8372721894)
+
 
 ---
 
