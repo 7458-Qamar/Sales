@@ -67,4 +67,4 @@ An interactive Power BI dashboard to visualize and analyze sales, profit margins
 
 ## 📬 Contact
 
-For any queries or suggestions, reach out via [coursemea@gmail.com](mailto:coursemea@gmail.com)
+For any queries or suggestions, reach out via [qamarmehmood533@gmail.com](mailto:coursemea@gmail.com)
